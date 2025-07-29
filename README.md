@@ -1,5 +1,3 @@
-# agisit24-g9
-
 # VueCalc Cloud Project
 
 The **VueCalc Cloud Project** is a cloud-native, microservices-based calculator application. The frontend is developed using Vue.js, and it interacts with **Expressed** and **Happy** backend services to perform arithmetic operations. These backend services are replicated across several instances for load balancing, which is managed using **HAProxy**.
